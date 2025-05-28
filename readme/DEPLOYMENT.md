@@ -164,7 +164,7 @@ To create a folder (directory) in Linux Vps, you need to use the `mkdir` command
 
 1. **Clone the Repo Using this:**
    ```sh
-   git clone https://github.com/biisal/biisal-filter-bot
+   git clone https://github.com/coderx0805/MOVIEsBOT
    ```
 2. **Verify if Repo is cloned or not:**
    ```sh
