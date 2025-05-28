@@ -19,11 +19,11 @@ If you encounter any issues **Deploying** the bot, feel free to seek assistance 
 
 The bot repository is designed to filter and manage files on Telegram. It allows you to add files either automatically or manually. The bot can respond to users in groups or private chats by providing the files they search for, using shortened links set by the group admin or bot admin.
 <br>
-For more information of the project, please refer to the [FEATURES PAGE](https://github.com/biisal/biisal-filter-bot/blob/main/readme/FEATURES.md)
+For more information of the project, please refer to the [FEATURES PAGE](https://github.com/coderx0805/MOVIEsBOT/blob/main/readme/FEATURES.md)
 
 ## Deployment
 
-### Click [Here To Deploy](https://github.com/biisal/biisal-filter-bot/blob/main/readme/DEPLOYMENT.md) the bot with less efforts.
+### Click [Here To Deploy](https://github.com/coderx0805/MOVIEsBOT/blob/main/readme/DEPLOYMENT.md) the bot with less efforts.
 
 ## Features
 
